@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49123
+layout_spectrum: 0.43257
+typography_spectrum: 0.16941
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#465266'
+    - '#bcb4aa'
+    - '#72808f'
+    - '#321d00'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
