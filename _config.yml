@@ -1,7 +1,7 @@
 name: sethlowephoto
 favicon: null
-layout_spectrum: 0.43257
-typography_spectrum: 0.16941
+layout_spectrum: 0
+typography_spectrum: 0.55508
 cta:
   domain: null
   bucket: null
@@ -21,10 +21,10 @@ color:
     - '#bcb4aa'
     - '#72808f'
     - '#321d00'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose:
   - name: follow
     item: 79db5d98-0091-44c5-b288-a8f94a7df2f1
